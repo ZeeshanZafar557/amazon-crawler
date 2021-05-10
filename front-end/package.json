@@ -7,7 +7,7 @@
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.17.0",
-    "lodash": "^4.17.5",
+    "lodash": "^4.17.21",
     "material-ui": "^0.20.0",
     "prop-types": "^15.6.1",
     "query-string": "^5.1.0",
